@@ -26,7 +26,7 @@ libraries' off-campus access, should provide access.
   P5 resource limits haskell (jtoman, cloncaric)
 
   P6 A Large Scale Study of Programming Languages and Code Quality in
-  Github (kivanc, ...)
+  Github (kivanc, carlod)
 
   P7 concurrent haskell (dmoon, jrw)
 
@@ -34,7 +34,13 @@ libraries' off-campus access, should provide access.
 
   P9 bidirectional fancy (konne, epdtry)
 
-  P0 jquery @ oopsla 14 (hybrid staged thing) (darioush, ...)
+  P0 jquery @ oopsla 14 (hybrid staged thing) (darioush, edward)
+
+```
+
+### Still Ought to Present...
+
+```
 
 ```
 
