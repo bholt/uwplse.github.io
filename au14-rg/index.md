@@ -13,9 +13,39 @@ Some paper links may point into the ACM Digital Library or the
 Springer online collection. Using a UW IP address, or the UW
 libraries' off-campus access, should provide access.
 
+### First Program Draft
+
+```
+
+  P2 WCET (emullen, billzorn)
+
+  P3 coeffects (ecr, p92)
+
+  P4 chlipala linking something something (dwoos, asnchstr)
+
+  P5 resource limits haskell (jtoman, cloncaric)
+
+  P6 A Large Scale Study of Programming Languages and Code Quality in
+  Github (kivanc, ...)
+
+  P7 concurrent haskell (dmoon, jrw)
+
+  P8 late data layout (bholt, perlm?n)
+
+  P9 bidirectional fancy (konne, ...)
+
+  P0 jquery @ oopsla 14 (hybrid staged thing) (darioush, ...)
+
+```
+
 ### Suggestions
 
 ```
+
+  p92 oopsla 14   rate types
+      icfp 14     pattern matching w/out k
+
+  
 
   Concurrent Haskell
   SPJ, POPL'96
@@ -89,11 +119,7 @@ libraries' off-campus access, should provide access.
   POPL
   http://dl.acm.org/citation.cfm?id=2535847
 
-  Don't sweat the small stuff: formal verification of C code without the pain
-  PLDI
-  http://dl.acm.org/citation.cfm?id=2594296
-  ^^^ WE READ THAT LAST SPRING
-  
+ 
   CakeML
   https://cakeml.org/popl14.pdf
   
@@ -102,6 +128,22 @@ libraries' off-campus access, should provide access.
 
   VeriC
   http://vst.cs.princeton.edu/download/VerifiableC.pdf
+
+  b: late data layout (oopsla 14)
+     stream jit (oopsla 14)
+
+  jrw: towards a formally verified proof assistant (or: nuprl in coq)
+  (super secret work)
+       VERDI related work
+
+  d: jquery @ oopsla 14 (hybrid staged thing)
+     
+  vu et al. PLDI 14
+  
+  “Compiler Validation via Equivalence Modulo Inputs”
+  Vu Le, Mehrdad Afshari, Zhendong Su
+  PLDI 2014
+  http://www.cs.ucdavis.edu/~su/publications/emi.pdf
 
 ```
 
