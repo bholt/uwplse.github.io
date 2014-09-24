@@ -17,6 +17,18 @@ libraries' off-campus access, should provide access.
 
 ```
 
+  Concurrent Haskell
+  SPJ, POPL'96
+  http://dl.acm.org/citation.cfm?id=237794
+
+  Bidirectional Elaboration of Dependently Typed Programs
+  Brigitte Pientka, PPDP'14
+  http://www.cs.mcgill.ca/~bpientka/papers/reconstruction-long.pdf
+
+  Programmers’ Build Errors: A Case Study (at Google)
+  Caitlin Sadowski, Edward Aftandilian, Robert Bowdidge, ICSE'14
+  http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/42184.pdf
+
   Spyware: a change-aware development toolset
   (ICSE 2008)
   http://dl.acm.org/citation.cfm?id=1368219
@@ -68,6 +80,9 @@ libraries' off-campus access, should provide access.
   http://www.cs.cornell.edu/~blg59/resources/doc/effing-bound-polymorphism.pdf
 
   http://ezyang.com/papers/ezyang13-rlimits.pdf
+
+
+
 
 ```
 
