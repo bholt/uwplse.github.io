@@ -32,7 +32,7 @@ libraries' off-campus access, should provide access.
 
   P8 late data layout (bholt, perlm?n)
 
-  P9 bidirectional fancy (konne, ...)
+  P9 bidirectional fancy (konne, epdtry)
 
   P0 jquery @ oopsla 14 (hybrid staged thing) (darioush, ...)
 
