@@ -11,6 +11,10 @@ Date        Presenter                   Topic
 ----------  --------------------------  -------------------------------------------------------
 Oct 3       Xi Wang                     Jitk
 
+???         Stuart P                    Hacking on Rust @ Mozilla
+
+???         Alex S                      Casio
+
 Apr  4      Colin Gordon                Towards Heaps in Dependent Type Theory
 
 Apr 13      Pavel Panchekha             HOOT: Simpler Distributed Systems
