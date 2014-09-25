@@ -9,6 +9,8 @@ group.  Participants should subscribe to the
 ---------------------------------------------------------------------------------------------
 Date        Presenter                   Topic
 ----------  --------------------------  -------------------------------------------------------
+Oct 3       Xi Wang                     Jitk
+
 Apr  4      Colin Gordon                Towards Heaps in Dependent Type Theory
 
 Apr 13      Pavel Panchekha             HOOT: Simpler Distributed Systems
