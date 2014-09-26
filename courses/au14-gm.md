@@ -17,7 +17,8 @@ group.  Participants should subscribe to the
 |----------|-----------------------------|-------------------------------------------------------
 |Date      | Presenter                   | Topic
 |----------|-----------------------------|-------------------------------------------------------
-|Oct 3     |  Xi Wang                    |  Jitk
+|Oct 3     |  Xi Wang                    |  Jitk Practice Talk
+|Oct 17    |  Tom Bergan                 |  OOPSLA Practice Talk
 |???       |  Stuart P                   |  Hacking on Rust @ Mozilla
 |???       |  Alex S                     |  Casio
 |???       |  Eric Reed                  |  Rust something something
