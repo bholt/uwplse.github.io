@@ -21,4 +21,5 @@ group.  Participants should subscribe to the
 |???       |  Stuart P                   |  Hacking on Rust @ Mozilla
 |???       |  Alex S                     |  Casio
 |???       |  Eric Reed                  |  Rust something something
+|???       |  Daniel Perelman            |  Synthesis and Education @ MSR
 |----------|-----------------------------|------------------------------------------------------
