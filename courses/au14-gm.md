@@ -5,7 +5,8 @@ title: PLSE Group Meeting
 permalink: au14-gm/
 ---
 
-## UW PLSE Group Meeting (Autumn 2014)
+## UW PLSE Group Meeting (Autumn 2014) (Fri 3:30 in CSE 203)
+
 
 We'll meet each week to discuss exciting research going on within the
 group.  Participants should subscribe to the
