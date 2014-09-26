@@ -25,23 +25,27 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | ID | Paper Assignment 
 |----|------------------------------
-| P2 | WCET (emullen, billzorn)
+| Oct 1 | WCET (emullen, billzorn)
 |----|------------------------------
-| P3 | coeffects (ecr, p92)
+| Oct 8 | coeffects (ecr, p92)
 |----|------------------------------
-| P4 | chlipala linking something something (dwoos, asnchstr)
+| Oct 15 | chlipala linking something something (dwoos, asnchstr)
 |----|------------------------------
-| P5 | resource limits haskell (jtoman, cloncaric)
+| Oct 22 | (affiliates)
 |----|------------------------------
-| P6 | A Large Scale Study of Programming Languages and Code Quality in Github (kivanc, carlod)
+| Oct 29 | resource limits haskell (jtoman, cloncaric)
 |----|------------------------------
-| P7 | concurrent haskell (dmoon, jrw)
+| Nov 5 | A Large Scale Study of Programming Languages and Code Quality in Github (kivanc, carlod)
 |----|------------------------------
-| P8 | late data layout (bholt, perlm?n)
+| Nov 12 | concurrent haskell (dmoon, jrw)
 |----|------------------------------
-| P9 | bidirectional fancy (konne, epdtry)
+| Nov 19 | late data layout (bholt, perlm?n)
 |----|------------------------------
-| P0 | jquery @ oopsla 14 (hybrid staged thing) (darioush, edward)
+| Nov 26 | (thanksgiving eve)
+|----|------------------------------
+| Dec 3 | bidirectional fancy (konne, epdtry)
+|----|------------------------------
+| Dec 10 | jquery @ oopsla 14 (hybrid staged thing) (darioush, edward)
 |----|------------------------------
 
 ### Suggestions
