@@ -22,4 +22,5 @@ group.  Participants should subscribe to the
 |???       |  Alex S                     |  Casio
 |???       |  Eric Reed                  |  Rust something something
 |???       |  Daniel Perelman            |  Synthesis and Education @ MSR
+|Nov21or28 |  Kivanc Muslu               |  Job Talk practice or Mnemosyne or recent research
 |----------|-----------------------------|------------------------------------------------------
