@@ -1,4 +1,9 @@
-# UW PLSE
+---
+content_type: md
+permalink: /
+layout: main
+title: PLSE
+---
 
 [PLSE_RG]: au14-rg/
 [PLSE_GM]: au14-gm/

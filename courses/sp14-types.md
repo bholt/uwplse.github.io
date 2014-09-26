@@ -1,3 +1,10 @@
+---
+content_type: md
+layout: main
+title: Category Theory Reading Group
+permalink: sp14-types/
+---
+
 % Reading Group in Categorical Models for Type Theories
 
 ## Spring 2014

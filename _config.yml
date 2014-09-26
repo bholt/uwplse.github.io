@@ -1,0 +1,6 @@
+markdown: kramdown
+highlighter: pygments
+
+baseurl: 
+
+repository_url: https://github.com/uw-plse/
