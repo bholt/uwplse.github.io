@@ -27,7 +27,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | ID | Paper Assignment 
 |----|------------------------------
-| Oct 1 | bidirectional fancy (konne, epdtry) 
+| Oct 1 | [concurrent haskell][concurrent-haskell] (dmoon, jrw)
 |----|------------------------------
 | Oct 8 | coeffects (ecr, p92)
 |----|------------------------------
@@ -39,7 +39,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | Nov 5 | A Large Scale Study of Programming Languages and Code Quality in Github (kivanc, carlod)
 |----|------------------------------
-| Nov 12 | [concurrent haskell][concurrent-haskell] (dmoon, jrw)
+| Nov 12 | bidirectional fancy (konne, epdtry)
 |----|------------------------------
 | Nov 19 | late data layout (bholt, perlm?n)
 |----|------------------------------
