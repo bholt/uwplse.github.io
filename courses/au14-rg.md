@@ -22,7 +22,7 @@ libraries' off-campus access, should provide access.
 
 ### First Program Draft
 
-[concurrent-haskell]: /concurrent-haskell.pdf
+[concurrent-haskell]: /courses/concurrent-haskell.pdf
 
 |----|------------------------------
 | ID | Paper Assignment 
