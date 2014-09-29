@@ -25,7 +25,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | ID | Paper Assignment 
 |----|------------------------------
-| Oct 1 | bidirectiona fancy (konne, epdtry) 
+| Oct 1 | bidirectional fancy (konne, epdtry) 
 |----|------------------------------
 | Oct 8 | coeffects (ecr, p92)
 |----|------------------------------
