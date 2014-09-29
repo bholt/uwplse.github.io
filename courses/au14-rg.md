@@ -25,7 +25,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | ID | Paper Assignment 
 |----|------------------------------
-| Oct 1 | WCET (emullen, billzorn)
+| Oct 1 | bidirectiona fancy (konne, epdtry) 
 |----|------------------------------
 | Oct 8 | coeffects (ecr, p92)
 |----|------------------------------
@@ -43,7 +43,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | Nov 26 | (thanksgiving eve)
 |----|------------------------------
-| Dec 3 | bidirectional fancy (konne, epdtry)
+| Dec 3 | wcet (emullen,billzorn)
 |----|------------------------------
 | Dec 10 | jquery @ oopsla 14 (hybrid staged thing) (darioush, edward)
 |----|------------------------------
