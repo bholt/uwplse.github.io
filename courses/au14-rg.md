@@ -22,6 +22,8 @@ libraries' off-campus access, should provide access.
 
 ### First Program Draft
 
+[concurrent-haskell]: concurrent-haskell.pdf
+
 |----|------------------------------
 | ID | Paper Assignment 
 |----|------------------------------
@@ -37,7 +39,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | Nov 5 | A Large Scale Study of Programming Languages and Code Quality in Github (kivanc, carlod)
 |----|------------------------------
-| Nov 12 | concurrent haskell (dmoon, jrw)
+| Nov 12 | [concurrent haskell][concurrent-haskell] (dmoon, jrw)
 |----|------------------------------
 | Nov 19 | late data layout (bholt, perlm?n)
 |----|------------------------------
