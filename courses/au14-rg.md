@@ -23,11 +23,12 @@ libraries' off-campus access, should provide access.
 ### First Program Draft
 
 [concurrent-haskell]: /courses/concurrent-haskell.pdf
+[concurrent-haskell-extended]: /courses/concurrent-haskell-extended.pdf
 
 |----|------------------------------
 | ID | Paper Assignment 
 |----|------------------------------
-| Oct 1 | [concurrent haskell][concurrent-haskell] (dmoon, jrw)
+| Oct 1 | [concurrent haskell][concurrent-haskell] ([extended version][concurrent-haskell-extended]) (dmoon, jrw)
 |----|------------------------------
 | Oct 8 | coeffects (ecr, p92)
 |----|------------------------------
