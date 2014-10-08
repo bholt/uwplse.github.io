@@ -24,13 +24,14 @@ libraries' off-campus access, should provide access.
 
 [concurrent-haskell]: /courses/concurrent-haskell.pdf
 [concurrent-haskell-extended]: /courses/concurrent-haskell-extended.pdf
+[coeffects-paper]: http://www.cl.cam.ac.uk/~dao29/publ/coeffects-icfp14.pdf
 
 |----|------------------------------
 | ID | Paper Assignment 
 |----|------------------------------
 | Oct 1 | [concurrent haskell][concurrent-haskell] ([extended version][concurrent-haskell-extended]) (dmoon, jrw)
 |----|------------------------------
-| Oct 8 | coeffects (ecr, p92)
+| Oct 8 | [coeffects][coeffects-paper] (ecr, p92)
 |----|------------------------------
 | Oct 15 | chlipala linking something something (dwoos, asnchstr)
 |----|------------------------------
