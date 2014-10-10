@@ -15,3 +15,5 @@ University of Washington Programming Languages and Software Engineering
 * [PLSE Group Meeting][PLSE_GM] (Fri 3:30 in CSE 203)
 
 Previous quarters’ reading groups [are archived](archive.html).
+
+Also, we have gathered some [docs](doc/index.html) about life in the lab.

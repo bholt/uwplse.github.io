@@ -1,3 +1,10 @@
+---
+content_type: md
+layout: main
+title: UW PLSE Lab Docs - Music
+permalink: doc/music/
+---
+
 # Connecting to the Wandboard
 
 Currently the only way to connect directly to the wandboard is by using the USB serial port adapter.
