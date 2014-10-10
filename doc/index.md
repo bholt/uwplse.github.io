@@ -7,4 +7,4 @@ permalink: doc/
 
 # UW PLSE Lab Docs
 
-[music](doc/music/)
+[music](music/)
