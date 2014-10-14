@@ -25,6 +25,11 @@ libraries' off-campus access, should provide access.
 [concurrent-haskell]: /courses/concurrent-haskell.pdf
 [concurrent-haskell-extended]: /courses/concurrent-haskell-extended.pdf
 [coeffects-paper]: http://www.cl.cam.ac.uk/~dao29/publ/coeffects-icfp14.pdf
+[chlipala-linking]: http://adam.chlipala.net/papers/CitoOOPSLA14/CitoOOPSLA14.pdf
+[haskell-resource-limits]: http://ezyang.com/papers/ezyang13-rlimits.pdf
+[code-quality]: http://baishakhir.github.io/uploads/lang_study.pdf
+[bidirectional-elaboration]: http://www.cs.mcgill.ca/~bpientka/papers/reconstruction-long.pdf
+[wcet-estimation]: http://drops.dagstuhl.de/opus/volltexte/2014/4600/pdf/3.pdf
 
 |----|------------------------------
 | ID | Paper Assignment 
@@ -33,21 +38,21 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | Oct 8 | [coeffects][coeffects-paper] (ecr, p92)
 |----|------------------------------
-| Oct 15 | chlipala linking something something (dwoos, asnchstr)
+| Oct 15 | [chlipala linking something something][chlipala-linking] (dwoos, asnchstr)
 |----|------------------------------
 | Oct 22 | (affiliates)
 |----|------------------------------
-| Oct 29 | resource limits haskell (jtoman, cloncaric)
+| Oct 29 | [resource limits haskell][haskell-resource-limits] (jtoman, cloncaric)
 |----|------------------------------
-| Nov 5 | A Large Scale Study of Programming Languages and Code Quality in Github (kivanc, carlod)
+| Nov 5 | [A Large Scale Study of Programming Languages and Code Quality in Github][code-quality] (kivanc, carlod)
 |----|------------------------------
-| Nov 12 | bidirectional fancy (konne, epdtry)
+| Nov 12 | [bidirectional fancy][bidirectional-elaboration] (konne, epdtry)
 |----|------------------------------
 | Nov 19 | late data layout (bholt, perlm?n)
 |----|------------------------------
 | Nov 26 | (thanksgiving eve)
 |----|------------------------------
-| Dec 3 | wcet (emullen,billzorn)
+| Dec 3 | [wcet][wcet-estimation] (emullen,billzorn)
 |----|------------------------------
 | Dec 10 | jquery @ oopsla 14 (hybrid staged thing) (darioush, edward)
 |----|------------------------------
