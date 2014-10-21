@@ -48,7 +48,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | Nov 12 | [bidirectional fancy][bidirectional-elaboration] (konne, epdtry)
 |----|------------------------------
-| Nov 19 | late data layout (bholt, perlm?n)
+| Nov 19 | late data layout (bholt, perelman)
 |----|------------------------------
 | Nov 26 | (thanksgiving eve)
 |----|------------------------------
