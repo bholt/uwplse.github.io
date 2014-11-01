@@ -20,6 +20,7 @@ group.  Participants should subscribe to the
 |Oct 3     |  Xi Wang                    |  Jitk Practice Talk
 |Oct 17    |  Tom Bergan                 |  OOPSLA Practice Talk
 |Oct 31    |  Eric Mullen                |  Quals Presentation
+|Nov 14    |  Rene Just                  |  Mutation effectiveness (FSE practice talk)
 |???       |  Stuart P                   |  Hacking on Rust @ Mozilla
 |???       |  Alex S                     |  Casio
 |???       |  Eric Reed                  |  Rust something something
