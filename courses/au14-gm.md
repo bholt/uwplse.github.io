@@ -21,7 +21,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Oct 3     |  Xi Wang                    |  Jitk Practice Talk
 |Oct 17    |  Tom Bergan                 |  OOPSLA Practice Talk
 |Oct 31    |  Eric Mullen                |  Quals Presentation
-|Nov 7     |  None                       |  PLSE Movie Night https://www.youtube.com/watch?v=_ahvzDzKdB0 
+|Nov 7     |  None                       |  [PLSE Movie Night](https://www.youtube.com/watch?v=_ahvzDzKdB0)
 |Nov 14    |  Rene Just                  |  Mutation effectiveness (FSE practice talk)
 |???       |  Stuart P                   |  Hacking on Rust @ Mozilla
 |???       |  Alex S                     |  Casio
