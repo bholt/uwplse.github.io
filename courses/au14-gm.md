@@ -27,5 +27,5 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |???       |  Alex S                     |  Casio
 |???       |  Eric Reed                  |  Rust something something
 |???       |  Daniel Perelman            |  Synthesis and Education @ MSR
-|Nov21or28 |  Kivanc Muslu               |  Job Talk practice or Mnemosyne or recent research
+|Dec 5     |  Kivanc Muslu               |  Mnemosyne: Expressing Variability in Software with Codebase Variants
 |----------|-----------------------------|------------------------------------------------------
