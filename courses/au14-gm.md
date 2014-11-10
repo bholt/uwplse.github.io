@@ -25,7 +25,6 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Nov 14    |  Rene Just                  |  Mutation effectiveness (FSE practice talk)
 |???       |  Stuart P                   |  Hacking on Rust @ Mozilla
 |Nov 21    |  Alex S                     |  Casio
-|???       |  Eric Reed                  |  Rust something something
 |???       |  Daniel Perelman            |  Synthesis and Education @ MSR
 |Dec 5     |  Kivanc Muslu               |  Mnemosyne: Expressing Variability in Software with Codebase Variants
 |----------|-----------------------------|------------------------------------------------------
