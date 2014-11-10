@@ -28,7 +28,7 @@ libraries' off-campus access, should provide access.
 [chlipala-linking]: http://adam.chlipala.net/papers/CitoOOPSLA14/CitoOOPSLA14.pdf
 [haskell-resource-limits]: http://ezyang.com/papers/ezyang13-rlimits.pdf
 [code-quality]: http://baishakhir.github.io/uploads/lang_study.pdf
-[bidirectional-elaboration]: http://www.cs.mcgill.ca/~bpientka/papers/reconstruction-long.pdf
+[bidirectional-elaboration]: http://www.cs.mcgill.ca/~fferre8/papers/BidirectionalElaboration.pdf
 [wcet-estimation]: http://drops.dagstuhl.de/opus/volltexte/2014/4600/pdf/3.pdf
 
 |----|------------------------------
