@@ -2,7 +2,7 @@
 content_type: md
 layout: main
 title: MSL: a Synthesis Enabled Language for Distributed Implementations
-permalink: au14-gm/msl.html
+permalink: au14-gm/msl/
 ---
 
 # MSL: a Synthesis Enabled Language for Distributed Implementations
