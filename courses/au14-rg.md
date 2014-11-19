@@ -29,6 +29,7 @@ libraries' off-campus access, should provide access.
 [haskell-resource-limits]: http://ezyang.com/papers/ezyang13-rlimits.pdf
 [code-quality]: http://baishakhir.github.io/uploads/lang_study.pdf
 [bidirectional-elaboration]: http://www.cs.mcgill.ca/~fferre8/papers/BidirectionalElaboration.pdf
+[late-data-layout]: http://infoscience.epfl.ch/record/200963/files/ldl-oopsla14_1.pdf
 [wcet-estimation]: http://drops.dagstuhl.de/opus/volltexte/2014/4600/pdf/3.pdf
 
 |----|------------------------------
@@ -48,7 +49,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | Nov 12 | [bidirectional fancy][bidirectional-elaboration] (konne, epdtry)
 |----|------------------------------
-| Nov 19 | late data layout (bholt, perelman)
+| Nov 19 | [late data layout][late-data-layout] (bholt, perelman)
 |----|------------------------------
 | Nov 26 | (thanksgiving eve)
 |----|------------------------------
