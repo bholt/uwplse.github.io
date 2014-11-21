@@ -26,7 +26,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Nov 21    |  Zhilei Xu                  |  [MSL: a Synthesis Enabled Language for Distributed Implementations](msl/)
 |Nov 28    |  (holiday)                  |
 |Dec 5     |  Kivanc Muslu               |  Mnemosyne: Expressing Variability in Software with Codebase Variants
-|???       |  Alex S                     |  Casio
+|Dec 12    |  Alex S                     |  Herbie
 |???       |  Stuart P                   |  Hacking on Rust @ Mozilla
 |???       |  Daniel Perelman            |  Synthesis and Education @ MSR
 |----------|-----------------------------|------------------------------------------------------
