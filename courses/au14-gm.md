@@ -27,6 +27,5 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Nov 28    |  (holiday)                  |
 |Dec 5     |  Kivanc Muslu               |  Mnemosyne: Expressing Variability in Software with Codebase Variants
 |Dec 12    |  Alex S                     |  Herbie
-|???       |  Stuart P                   |  Hacking on Rust @ Mozilla
 |???       |  Daniel Perelman            |  Synthesis and Education @ MSR
 |----------|-----------------------------|------------------------------------------------------
