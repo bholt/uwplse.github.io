@@ -31,6 +31,7 @@ libraries' off-campus access, should provide access.
 [bidirectional-elaboration]: http://www.cs.mcgill.ca/~fferre8/papers/BidirectionalElaboration.pdf
 [late-data-layout]: http://infoscience.epfl.ch/record/200963/files/ldl-oopsla14_1.pdf
 [wcet-estimation]: http://drops.dagstuhl.de/opus/volltexte/2014/4600/pdf/3.pdf
+[jq]: https://cs.au.dk/~amoeller/papers/jquery/paper.pdf
 
 |----|------------------------------
 | ID | Paper Assignment 
@@ -55,7 +56,7 @@ libraries' off-campus access, should provide access.
 |----|------------------------------
 | Dec 3 | [wcet][wcet-estimation] (emullen,billzorn)
 |----|------------------------------
-| Dec 10 | jquery @ oopsla 14 (hybrid staged thing) (darioush, edward)
+| Dec 10 | [Determinacy in Static Analysis for jQuery][jq] (darioush, edward)
 |----|------------------------------
 
 ### Suggestions
