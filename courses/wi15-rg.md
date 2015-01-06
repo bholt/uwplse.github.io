@@ -26,6 +26,7 @@ libraries' off-campus access, should provide access.
 - [Compositional CompCert](https://www.cs.princeton.edu/~appel/papers/compcomp.pdf) (POPL'15)
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/hygiene-2015-popl-authors-copy.pdf) (POPL'15)
 - [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL'15)
+- [Views on Internal and External Validity in Empirical Software Engineering](http://www.infosun.fim.uni-passau.de/cl/publications/docs/SiSiAp15.pdf) (ICSE'15)
 
 ### Last Quarter's Suggestions
 
