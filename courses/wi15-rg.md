@@ -28,6 +28,10 @@ libraries' off-campus access, should provide access.
 - [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL'15)
 - [Views on Internal and External Validity in Empirical Software Engineering](http://www.infosun.fim.uni-passau.de/cl/publications/docs/SiSiAp15.pdf) (ICSE'15)
 
+#### Konstantin
+
+- [Fiat: Deductive synthesis of abstract data types in a proof assistant.](https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf) (POPL'15)
+
 ### Last Quarter's Suggestions
 
     p92 oopsla 14   rate types
