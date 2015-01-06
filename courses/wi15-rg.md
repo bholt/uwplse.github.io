@@ -22,6 +22,8 @@ libraries' off-campus access, should provide access.
 
 ### Suggestions
 
+#### Brandon Holt & James Bornholt
+
 - [Surgical Precision JIT Compilers](http://dl.acm.org/citation.cfm?id=2594316) (PLDI'14)
 - [Compositional CompCert](https://www.cs.princeton.edu/~appel/papers/compcomp.pdf) (POPL'15)
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/hygiene-2015-popl-authors-copy.pdf) (POPL'15)
@@ -31,6 +33,7 @@ libraries' off-campus access, should provide access.
 #### Konstantin
 
 - [Fiat: Deductive synthesis of abstract data types in a proof assistant.](https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf) (POPL'15)
+- [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf) (OOPSLA'09)
 
 ### Last Quarter's Suggestions
 
