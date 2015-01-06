@@ -20,7 +20,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |-------|------------------|--------------------------------------
 |Jan 9  | None             | Meet * Greet
 |Jan 16 | Colin Scott      | Minimizing test cases to distributed systems.
-|Jan 23 |                  |
+|Jan 23 | Alex Sanchez-Stern | Herbie
 |Jan 30 |                  |
 |Feb 6  |                  |
 |Feb 13 |                  |
