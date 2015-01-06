@@ -22,7 +22,7 @@ libraries' off-campus access, should provide access.
 
 ### Suggestions
 
-
+- [Surgical Precision JIT Compilers](http://dl.acm.org/citation.cfm?id=2594316) (PLDI'14)
 
 ### Last Quarter's Suggestions
 
