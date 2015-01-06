@@ -23,6 +23,9 @@ libraries' off-campus access, should provide access.
 ### Suggestions
 
 - [Surgical Precision JIT Compilers](http://dl.acm.org/citation.cfm?id=2594316) (PLDI'14)
+- [Compositional CompCert](https://www.cs.princeton.edu/~appel/papers/compcomp.pdf) (POPL'15)
+- [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/hygiene-2015-popl-authors-copy.pdf) (POPL'15)
+- [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL'15)
 
 ### Last Quarter's Suggestions
 
