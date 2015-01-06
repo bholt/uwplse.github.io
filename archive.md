@@ -9,6 +9,12 @@ title: PLSE Archive
 
 Links to past quarters’ reading groups live here.
 
+## Autumn 2014
+
+* [PL/SE Reading Group](au14-rg/)
+
+* [Group Meeting](au14-gm/)
+
 ## Spring 2014
 
 * [PL Reading Group](sp14-plsem/)
