@@ -60,6 +60,12 @@ libraries' off-campus access, should provide access.
 - [Differential Privacy: Now it’s Getting Personal](http://www.cse.chalmers.se/~gersch/popl2015.pdf) (POPL 2015)
 - [From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification](http://adam.chlipala.net/papers/BedrockPOPL15/BedrockPOPL15.pdf) (POPL 2015)
 
+#### Pavel
+
+- [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL 2015)
+- [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/) (POPL 2015)
+- [Notation as a Tool of Thought](http://dl.acm.org/ft_gateway.cfm?id=1283935&type=pdf) (1979)
+
 ### Students
 
 - Adrian Sampson
