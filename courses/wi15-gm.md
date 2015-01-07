@@ -15,20 +15,20 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 
 ### Schedule
 
-|-------|------------------|--------------------------------------
-|Date   | Presenter        | Topic
-|-------|------------------|--------------------------------------
-|Jan 9  | None             | Meet * Greet
-|Jan 16 | Colin Scott      | Minimizing test cases to distributed systems.
+|-------|--------------------|--------------------------------------
+|Date   | Presenter          | Topic
+|-------|--------------------|--------------------------------------
+|Jan 9  | None               | Meet * Greet
+|Jan 16 | Colin Scott        | Minimizing test cases to distributed systems.
 |Jan 23 | Alex Sanchez-Stern | Herbie
-|Jan 30 |                  |
-|Feb 6  |                  |
-|Feb 13 |                  |
-|Feb 20 |                  |
-|Feb 27 |                  |
-|Mar 6  |                  |
-|Mar 13 |                  |
-|Mar 20 |                  |
-|Mar 27 |                  |
-|Apr 3  |                  |
-|-------|------------------|-------------------------------------
+|Jan 30 |                    |
+|Feb 6  |                    |
+|Feb 13 |                    |
+|Feb 20 |                    |
+|Feb 27 | Doug & James       | Formally verifying distributed systems
+|Mar 6  |                    |
+|Mar 13 |                    |
+|Mar 20 |                    |
+|Mar 27 |                    |
+|Apr 3  |                    |
+|-------|--------------------|-------------------------------------
