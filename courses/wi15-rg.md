@@ -45,6 +45,14 @@ libraries' off-campus access, should provide access.
 - [The plastic surgery hypothesis](http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf) (FSE'14)
 - [Techniques for improving regression testing in continuous integration development environments](http://dl.acm.org/citation.cfm?id=2635868.2635910) (FSE'14)
 
+#### Max
+
+- [Predicting Program Properties from "Big Code"](http://www.srl.inf.ethz.ch/papers/jsnice15.pdf) (POPL'15)
+- [Effective Abstractions for the Verification under Relaxed Memory Models][http://www.srl.inf.ethz.ch/papers/vmcai15.pdf] (VMCAI'15)
+- Verification modulo versions: towards usable verification
+- Compiler Validation via Equivalence Modulo Inputs
+- [WYSINWYX: What You See Is Not What You eXecute](http://dl.acm.org/citation.cfm?id=1749612), 2005
+
 
 ### Students
 
