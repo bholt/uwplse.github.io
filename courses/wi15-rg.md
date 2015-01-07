@@ -71,6 +71,10 @@ libraries' off-campus access, should provide access.
 - [Blanket Execution: Dynamic Similarity Testing for Program Binaries and
 Components](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/egele) (Usenix Sec 14)
 - [Code-Pointer Integrity](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/kuznetsov) (OSDI 14)
+- 
+#### Daniel Perelman
+- [Deep Specifications and Certified Abstraction Layers](http://flint.cs.yale.edu/flint/publications/dscal.pdf) (POPL '15)
+- [Program Boosting: Program Synthesis via Crowd-Sourcing](http://research.microsoft.com/apps/pubs/default.aspx?id=231564) (POPL '15)
 
 ### Students
 
