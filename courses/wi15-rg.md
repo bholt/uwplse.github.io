@@ -66,6 +66,12 @@ libraries' off-campus access, should provide access.
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/) (POPL 2015)
 - [Notation as a Tool of Thought](http://dl.acm.org/ft_gateway.cfm?id=1283935&type=pdf) (1979)
 
+#### Edward
+- [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/tice) (Usenix Sec 14)
+- [Blanket Execution: Dynamic Similarity Testing for Program Binaries and
+Components](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/egele) (Usenix Sec 14)
+- [Code-Pointer Integrity](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/kuznetsov) (OSDI 14)
+
 ### Students
 
 - Adrian Sampson
