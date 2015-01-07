@@ -38,6 +38,7 @@ libraries' off-campus access, should provide access.
 
 - [Fiat: Deductive synthesis of abstract data types in a proof assistant.](https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf) (POPL'15)
 - [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf) (OOPSLA'09)
+- Pattern Matching w/out K (ICFP'14)
 
 #### Darioush
 
