@@ -58,6 +58,7 @@ libraries' off-campus access, should provide access.
 - [Verification modulo versions: towards usable verification](http://dl.acm.org/citation.cfm?id=2594326) (PLDI 2014)
 - [Ur/Web: A Simple Model for Programming the Web](http://adam.chlipala.net/papers/UrWebPOPL15/UrWebPOPL15.pdf) (POPL 2015)
 - [Differential Privacy: Now it’s Getting Personal](http://www.cse.chalmers.se/~gersch/popl2015.pdf) (POPL 2015)
+- [From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification](http://adam.chlipala.net/papers/BedrockPOPL15/BedrockPOPL15.pdf) (POPL 2015)
 
 ### Students
 
