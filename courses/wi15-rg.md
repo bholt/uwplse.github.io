@@ -33,6 +33,8 @@ libraries' off-campus access, should provide access.
 #### Brian
 
 - [Views on Internal and External Validity in Empirical Software Engineering](http://www.infosun.fim.uni-passau.de/cl/publications/docs/SiSiAp15.pdf) (ICSE'15)
+- [An Empirical Analysis of Flaky Tests](http://mir.cs.illinois.edu/~qluo2/fse14LuoHEM.pdf) (FSE'14)
+- [Analyze This! 145 Questions for Data Scientists in Software Engineering](http://research.microsoft.com/en-us/um/people/abegel/papers/begel-icse-2014.pdf) (ICSE'14)
 
 #### Konstantin
 
