@@ -41,6 +41,12 @@ libraries' off-campus access, should provide access.
 - [Fiat: Deductive synthesis of abstract data types in a proof assistant.](https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf) (POPL'15)
 - [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf) (OOPSLA'09)
 
+#### Darioush
+
+- [Improving oracle quality by detecting brittle assertions and unused inputs in tests](http://dl.acm.org/citation.cfm?id=2635917) (FSE'14)
+- [The plastic surgery hypothesis](http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf) (FSE'14)
+- [Techniques for improving regression testing in continuous integration development environments](http://dl.acm.org/citation.cfm?id=2635868.2635910) (FSE'14)
+
 ### Last Quarter's Suggestions
 
     p92 oopsla 14   rate types
