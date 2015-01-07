@@ -5,9 +5,7 @@ title: PLSE Reading Group
 permalink: wi15-rg/
 ---
 
-## UW PLSE Reading Group (Winter 2015)
-
-### *Wed 3:30pm in CSE 203*
+## UW PLSE Reading Group (Winter 2015) (Wed 3:30pm in CSE 203)
 
 We'll be reading and discussing exciting recent papers from the programming
 languages and software engineering communities.  Participants should
@@ -34,6 +32,31 @@ libraries' off-campus access, should provide access.
 
 - [Fiat: Deductive synthesis of abstract data types in a proof assistant.](https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf) (POPL'15)
 - [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf) (OOPSLA'09)
+
+### Students
+
+- Adrian Sampson
+- Alexander Sanchez-Stern
+- Amrita Mazumdar
+- Brandon Holt
+- Brandon Myers
+- Brian Burg
+- Calvin A Loncaric
+- Dalton Black
+- Daniel Perelman
+- Darioush Jalali
+- Douglas Woos
+- Eric Mullen
+- Eric Reed
+- James R Wilcox
+- John A Toman
+- Kivanc Muslu
+- Konstantin Weitz
+- Max-Ferdinand Gerhard Suffel
+- Pavel Panchekha
+- Stuart Pernsteiner
+- William Zorn
+- Xue J Wu
 
 ### Last Quarter's Suggestions
 
