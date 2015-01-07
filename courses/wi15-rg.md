@@ -22,7 +22,7 @@ libraries' off-campus access, should provide access.
 
 #### Brandon Holt & James Bornholt
 
-- [Surgical Precision JIT Compilers](http://dl.acm.org/citation.cfm?id=2594316) (PLDI'14)
+- [Surgical Precision JIT Compilers](http://dl.acm.org/citation.cfm?id=2594316) (PLDI'14) (we read this last year -- doug)
 
 #### Eric M
 
@@ -54,6 +54,10 @@ libraries' off-campus access, should provide access.
 - Compiler Validation via Equivalence Modulo Inputs
 - [WYSINWYX: What You See Is Not What You eXecute](http://dl.acm.org/citation.cfm?id=1749612), 2005
 
+#### Doug
+- [Verification modulo versions: towards usable verification](http://dl.acm.org/citation.cfm?id=2594326) (PLDI 2014)
+- [Ur/Web: A Simple Model for Programming the Web](http://adam.chlipala.net/papers/UrWebPOPL15/UrWebPOPL15.pdf) (POPL 2015)
+- [Differential Privacy: Now it’s Getting Personal](http://www.cse.chalmers.se/~gersch/popl2015.pdf) (POPL 2015)
 
 ### Students
 
