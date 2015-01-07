@@ -23,15 +23,28 @@ libraries' off-campus access, should provide access.
 #### Brandon Holt & James Bornholt
 
 - [Surgical Precision JIT Compilers](http://dl.acm.org/citation.cfm?id=2594316) (PLDI'14)
+
+#### Eric M
+
 - [Compositional CompCert](https://www.cs.princeton.edu/~appel/papers/compcomp.pdf) (POPL'15)
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/hygiene-2015-popl-authors-copy.pdf) (POPL'15)
 - [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL'15)
+
+#### Brian
+
 - [Views on Internal and External Validity in Empirical Software Engineering](http://www.infosun.fim.uni-passau.de/cl/publications/docs/SiSiAp15.pdf) (ICSE'15)
 
 #### Konstantin
 
 - [Fiat: Deductive synthesis of abstract data types in a proof assistant.](https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf) (POPL'15)
 - [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf) (OOPSLA'09)
+
+#### Darioush
+
+- [Improving oracle quality by detecting brittle assertions and unused inputs in tests](http://dl.acm.org/citation.cfm?id=2635917) (FSE'14)
+- [The plastic surgery hypothesis](http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf) (FSE'14)
+- [Techniques for improving regression testing in continuous integration development environments](http://dl.acm.org/citation.cfm?id=2635868.2635910) (FSE'14)
+
 
 ### Students
 
