@@ -18,11 +18,11 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |-------|--------------------|--------------------------------------
 |Date   | Presenter          | Topic
 |-------|--------------------|--------------------------------------
-|Jan 9  | None               | Meet * Greet
+|Jan 9  | Eric Mullen        | CoqPL Practice
 |Jan 16 | Colin Scott        | Minimizing test cases to distributed systems.
 |Jan 23 | Alex Sanchez-Stern | Herbie
 |Jan 30 |                    |
-|Feb 6  |                    |
+|Feb 6  | John Toman         | Debugging configuration updates in running software
 |Feb 13 |                    |
 |Feb 20 |                    |
 |Feb 27 | Doug & James       | Formally verifying distributed systems
