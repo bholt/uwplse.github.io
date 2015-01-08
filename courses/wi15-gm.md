@@ -21,7 +21,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Jan 9  | Eric Mullen        | CoqPL Practice
 |Jan 16 | Colin Scott        | Minimizing test cases to distributed systems.
 |Jan 23 | Alex Sanchez-Stern | Herbie
-|Jan 30 |                    |
+|Jan 30 | Konstantin & Doug  | BaGPipe, formally verified BGP configurations
 |Feb 6  | John Toman         | Debugging configuration updates in running software
 |Feb 13 |                    |
 |Feb 20 |                    |
