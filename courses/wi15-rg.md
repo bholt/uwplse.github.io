@@ -18,6 +18,34 @@ Some paper links may point into the ACM Digital Library or the
 Springer online collection. Using a UW IP address, or the UW
 libraries' off-campus access, should provide access.
 
+### Schedule
+
+|-------|--------------------|--------------------------------------
+|Date   | Presenter          | Topic
+|-------|--------------------|--------------------------------------
+|Jan 7  | Konstantin         | Paper Sign-up
+|Jan 14 | Colin Scott        | Minimizing test cases to distributed systems.
+|Jan 21 | Alex Sanchez-Stern | Herbie
+|Jan 28 |                    |
+|Feb 4  |                    |
+|Feb 11 |                    |
+|Feb 18 |                    |
+|Feb 25 | Doug & James       | Formally verifying distributed systems
+|Mar 4  |                    |
+|Mar 11 |                    |
+|Mar 18 |                    |
+|Mar 25 |                    |
+|Apr 1  |                    |
+|-------|--------------------|-------------------------------------
+
+
+
+- [Compositional CompCert](https://www.cs.princeton.edu/~appel/papers/compcomp.pdf) (POPL'15)
+    + Doug, Eric M
+
+
+
+
 ### Suggestions
 
 #### Brandon Holt & James Bornholt
@@ -26,32 +54,38 @@ libraries' off-campus access, should provide access.
 
 #### Eric M
 
-- [Compositional CompCert](https://www.cs.princeton.edu/~appel/papers/compcomp.pdf) (POPL'15)
+
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/hygiene-2015-popl-authors-copy.pdf) (POPL'15)
 - [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL'15)
 
 #### Brian
 
 - [Views on Internal and External Validity in Empirical Software Engineering](http://www.infosun.fim.uni-passau.de/cl/publications/docs/SiSiAp15.pdf) (ICSE'15)
+    + Pavel, Calvin
 - [An Empirical Analysis of Flaky Tests](http://mir.cs.illinois.edu/~qluo2/fse14LuoHEM.pdf) (FSE'14)
 - [Analyze This! 145 Questions for Data Scientists in Software Engineering](http://research.microsoft.com/en-us/um/people/abegel/papers/begel-icse-2014.pdf) (ICSE'14)
 
 #### Konstantin
 
 - [Fiat: Deductive synthesis of abstract data types in a proof assistant.](https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf) (POPL'15)
+    + Konstantin, Brandon H
 - [On Understanding Data Abstraction, Revisited](http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf) (OOPSLA'09)
+    + Konstantin, Brandon H
 - Pattern Matching w/out K (ICFP'14)
+    + Stuart, James W
 
 #### Darioush
 
 - [Improving oracle quality by detecting brittle assertions and unused inputs in tests](http://dl.acm.org/citation.cfm?id=2635917) (FSE'14)
 - [The plastic surgery hypothesis](http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf) (FSE'14)
+    + James B, John
 - [Techniques for improving regression testing in continuous integration development environments](http://dl.acm.org/citation.cfm?id=2635868.2635910) (FSE'14)
 
 #### Max
 
 - [Predicting Program Properties from "Big Code"](http://www.srl.inf.ethz.ch/papers/jsnice15.pdf) (POPL'15)
 - [Effective Abstractions for the Verification under Relaxed Memory Models](http://www.srl.inf.ethz.ch/papers/vmcai15.pdf) (VMCAI'15)
+    + Max, Edward
 - Verification modulo versions: towards usable verification
 - Compiler Validation via Equivalence Modulo Inputs
 - [WYSINWYX: What You See Is Not What You eXecute](http://dl.acm.org/citation.cfm?id=1749612), 2005
@@ -59,17 +93,21 @@ libraries' off-campus access, should provide access.
 #### Doug
 - [Verification modulo versions: towards usable verification](http://dl.acm.org/citation.cfm?id=2594326) (PLDI 2014)
 - [Ur/Web: A Simple Model for Programming the Web](http://adam.chlipala.net/papers/UrWebPOPL15/UrWebPOPL15.pdf) (POPL 2015)
+    + Darioush, Daniel
 - [Differential Privacy: Now it’s Getting Personal](http://www.cse.chalmers.se/~gersch/popl2015.pdf) (POPL 2015)
 - [From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification](http://adam.chlipala.net/papers/BedrockPOPL15/BedrockPOPL15.pdf) (POPL 2015)
+    + Doug, Eric M
 
 #### Pavel
 
 - [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL 2015)
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/) (POPL 2015)
 - [Notation as a Tool of Thought](http://dl.acm.org/ft_gateway.cfm?id=1283935&type=pdf) (1979)
+    + Eric R, Bill
 
 #### Edward
 - [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/tice) (Usenix Sec 14)
+    + Brian, 
 - [Blanket Execution: Dynamic Similarity Testing for Program Binaries and
 Components](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/egele) (Usenix Sec 14)
 - [Code-Pointer Integrity](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/kuznetsov) (OSDI 14)
