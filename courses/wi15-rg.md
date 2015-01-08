@@ -49,10 +49,6 @@ libraries' off-campus access, should provide access.
 
 ### Unpicked Paper Suggestions
 
-#### Brandon Holt & James Bornholt
-
-- [Surgical Precision JIT Compilers](http://dl.acm.org/citation.cfm?id=2594316) (PLDI'14) (we read this last year -- doug)
-
 #### Eric M
 
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/hygiene-2015-popl-authors-copy.pdf) (POPL'15)
@@ -62,8 +58,6 @@ libraries' off-campus access, should provide access.
 
 - [An Empirical Analysis of Flaky Tests](http://mir.cs.illinois.edu/~qluo2/fse14LuoHEM.pdf) (FSE'14)
 - [Analyze This! 145 Questions for Data Scientists in Software Engineering](http://research.microsoft.com/en-us/um/people/abegel/papers/begel-icse-2014.pdf) (ICSE'14)
-
-#### Konstantin
 
 #### Darioush
 
@@ -79,7 +73,6 @@ libraries' off-campus access, should provide access.
 
 #### Doug
 - [Verification modulo versions: towards usable verification](http://dl.acm.org/citation.cfm?id=2594326) (PLDI 2014)
-
 - [Differential Privacy: Now it’s Getting Personal](http://www.cse.chalmers.se/~gersch/popl2015.pdf) (POPL 2015)
 
 #### Pavel
