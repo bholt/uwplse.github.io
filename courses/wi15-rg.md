@@ -25,7 +25,7 @@ libraries' off-campus access, should provide access.
 |-------|-----------------------|--------------------------------------
 |Jan 7  | Konstantin            | Paper Sign-up
 |Jan 14 | Eric R, Bill          | [Notation as a Tool of Thought][NTT] (1979)
-|Jan 21 | James B, John         | [The plastic surgery hypothesis][PLASTIC] (FSE'14)
+|Jan 21 | James B, John         | [The plastic surgery hypothesis][PLASTIC] (FSE'14)<br/>*not Feb 4 or Feb 11*
 |Jan 28 | Konstantin, Brandon H | [Fiat: Deductive synthesis of abstract data types in a proof assistant.][FIAT] (POPL'15) or<br/> [On Understanding Data Abstraction, Revisited][ABST] (OOPSLA'09)
 |Feb 4  | Pavel, Calvin         | [Views on Internal and External Validity in Empirical Software Engineering][EMP] (ICSE'15)
 |Feb 11 | Doug, Eric M          | [Compositional CompCert][COMPCERT] (POPL'15) or<br/> [From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification][WA] (POPL 2015)
@@ -46,36 +46,6 @@ libraries' off-campus access, should provide access.
 [FIAT]: https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf
 [ABST]: http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf
 [PLASTIC]: http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf
-
-### Presenter Date Restrictions
-
-|------------------------------|-------------------
-| Presenter                    | Date Restrictions
-|------------------------------|-------------------
-| Adrian Sampson               |
-| Alexander Sanchez-Stern      |
-| Amrita Mazumdar              |
-| Brandon Holt                 |
-| Brandon Myers                |
-| Brian Burg                   |
-| Calvin A Loncaric            |
-| Dalton Black                 |
-| Daniel Perelman              |
-| Darioush Jalali              |
-| Douglas Woos                 |
-| Eric Mullen                  |
-| Eric Reed                    |
-| James R Wilcox               |
-| John A Toman                 |
-| Kivanc Muslu                 |
-| Konstantin Weitz             |
-| Max-Ferdinand Gerhard Suffel |
-| Pavel Panchekha              |
-| Stuart Pernsteiner           |
-| William Zorn                 |
-| Xue J Wu                     |
-| James Bornhold               | not Feb 4 or Feb 11
-|------------------------------|-------------------
 
 ### Unpicked Paper Suggestions
 
