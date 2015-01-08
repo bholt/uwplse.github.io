@@ -29,7 +29,7 @@ libraries' off-campus access, should provide access.
 |Jan 28 | Konstantin, Brandon H | [Fiat: Deductive synthesis of abstract data types in a proof assistant.][FIAT] (POPL'15) or<br/> [On Understanding Data Abstraction, Revisited][ABST] (OOPSLA'09)
 |Feb 4  | Pavel, Calvin         | [Views on Internal and External Validity in Empirical Software Engineering][EMP] (ICSE'15)
 |Feb 11 | Doug, Eric M          | [Compositional CompCert][COMPCERT] (POPL'15) or<br/> [From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification][WA] (POPL 2015)
-|Feb 18 | Brian,                | [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM][ECFI] (Usenix Sec 14)
+|Feb 18 | Brian, Alex           | [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM][ECFI] (Usenix Sec 14)
 |Feb 25 | Stuart, James W       | [Pattern Matching w/out K][NOK] (ICFP'14)
 |Mar 4  | Max, Edward           | [Effective Abstractions for the Verification under Relaxed Memory Models][EAVR] (VMCAI'15)
 |Mar 11 | Darioush, Daniel      | [Ur/Web: A Simple Model for Programming the Web][URWEB] (POPL 2015)
