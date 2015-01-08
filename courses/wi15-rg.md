@@ -45,7 +45,7 @@ libraries' off-campus access, should provide access.
 [NOK]: http://people.cs.kuleuven.be/~jesper.cockx/Without-K/Pattern-matching-without-K.pdf
 [FIAT]: https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf
 [ABST]: http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf
-[PLASTIC]: http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf)
+[PLASTIC]: http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf
 
 ### Presenter Date Restrictions
 
