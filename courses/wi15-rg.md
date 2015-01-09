@@ -26,8 +26,8 @@ libraries' off-campus access, should provide access.
 |Jan 7  | Konstantin            | Paper Sign-up
 |Jan 14 | Eric R, Bill          | [Notation as a Tool of Thought][NTT] (1979)
 |Jan 21 | James B, John         | [The plastic surgery hypothesis][PLASTIC] (FSE'14)<br/>*not Feb 4 or Feb 11*
-|Jan 28 | Konstantin, Brandon H | [Fiat: Deductive synthesis of abstract data types in a proof assistant.][FIAT] (POPL'15) or<br/> [On Understanding Data Abstraction, Revisited][ABST] (OOPSLA'09)
-|Feb 4  | Pavel, Calvin         | [Views on Internal and External Validity in Empirical Software Engineering][EMP] (ICSE'15)
+|Jan 28 | Pavel, Calvin         | [Views on Internal and External Validity in Empirical Software Engineering][EMP] (ICSE'15)
+|Feb 4  | Konstantin, Brandon H | [Fiat: Deductive synthesis of abstract data types in a proof assistant.][FIAT] (POPL'15) or<br/> [On Understanding Data Abstraction, Revisited][ABST] (OOPSLA'09)
 |Feb 11 | Doug, Eric M          | [Compositional CompCert][COMPCERT] (POPL'15) or<br/> [From Network Interface to Multithreaded Web Applications: A Case Study in Modular Program Verification][WA] (POPL 2015)
 |Feb 18 | Brian, Alex           | [Enforcing Forward-Edge Control-Flow Integrity in GCC & LLVM][ECFI] (Usenix Sec 14)
 |Feb 25 | Stuart, James W       | [Pattern Matching w/out K][NOK] (ICFP'14)
@@ -46,6 +46,12 @@ libraries' off-campus access, should provide access.
 [FIAT]: https://people.csail.mit.edu/jgross/personal-website/papers/2015-adt-synthesis.pdf
 [ABST]: http://www.cs.utexas.edu/~wcook/Drafts/2009/essay.pdf
 [PLASTIC]: http://people.cs.umass.edu/~brun/pubs/pubs/Barr14fse.pdf
+
+|-----------------------|--------------------------------------
+| Presenter             | Scheduling constraints
+|-----------------------|--------------------------------------
+| Calvin                | not Feb 4 or 11
+|-----------------------|--------------------------------------
 
 ### Unpicked Paper Suggestions
 
