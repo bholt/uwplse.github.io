@@ -28,7 +28,5 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Feb 27 | Doug & James       | Formally verifying distributed systems
 |Mar 6  |                    |
 |Mar 13 |                    |
-|Mar 20 |                    |
-|Mar 27 |                    |
-|Apr 3  |                    |
+|Mar 20 (finals) |                    |
 |-------|--------------------|-------------------------------------
