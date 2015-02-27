@@ -19,4 +19,6 @@ When you're done, press `^D` to log out, and then press `^A` `k` `y` to terminat
 
 There is an SSH server running on the board, but it's accessible only if you're connected to the UWPLSE router.  Connect over the serial port first to add your public key to the `authorized_keys` file and to get the Wandboard's current IP address.
 
+Remember to use the `debian` account when SSHing.
+
 The `plseaudio` IRC bot runs two processes: a backgrounded `ii` (IRC client) process, and a bash script running under `tmux` to process commands.
