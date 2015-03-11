@@ -27,6 +27,6 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Feb 20 | Eric Reed          | Formalizing Rust (Quals Talk) 
 |Feb 27 | Doug & James       | Formally verifying distributed systems
 |Mar 6  | Eric Reed          | Checking Units of Measurement
-|Mar 13 |                    |
+|Mar 13 | None               | Visit Days
 |Mar 20 (finals) |                    |
 |-------|--------------------|-------------------------------------
