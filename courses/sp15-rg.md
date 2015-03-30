@@ -42,7 +42,10 @@ libraries' off-campus access, should provide access.
 
 - [Some Paper](google.com) (POPL'15)
 
+#### Dan Grossman
 
+- Concurrency Debugging with Differential Schedule Projections (PLDI'15)
+- A Simpler, Safer Programming and Execution Model for Intermittent Systems (PLDI'15)
 
 
 
