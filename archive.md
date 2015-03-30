@@ -9,6 +9,12 @@ title: PLSE Archive
 
 Links to past quarters’ reading groups live here.
 
+## Winter 2015
+
+* [PL/SE Reading Group](wi15-rg/)
+
+* [Group Meeting](wi15-gm/)
+
 ## Autumn 2014
 
 * [PL/SE Reading Group](au14-rg/)

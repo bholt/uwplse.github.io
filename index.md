@@ -5,8 +5,8 @@ layout: main
 title: PLSE
 ---
 
-[PLSE_RG]: wi15-rg/
-[PLSE_GM]: wi15-gm/
+[PLSE_RG]: sp15-rg/
+[PLSE_GM]: sp15-gm/
 
 University of Washington Programming Languages and Software Engineering
 

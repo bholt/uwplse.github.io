@@ -1,0 +1,32 @@
+---
+content_type: md
+layout: main
+title: PLSE Group Meeting
+permalink: sp15-gm/
+---
+
+## UW PLSE Group Meeting (Spring 2015) (Fri 3:30 in CSE 203)
+
+
+We'll meet each week to discuss exciting research going on within the
+group.  Participants should subscribe to the
+[PLSE mailing list](https://mailman.cs.washington.edu/mailman/listinfo/plse).
+Konstantin Weitz is in charge of making sure there is something planned every week.
+
+### Schedule
+
+|-------|--------------------|--------------------------------------
+|Date   | Presenter          | Topic
+|-------|--------------------|--------------------------------------
+|Apr  3 |                    |
+|Apr 10 |                    | 
+|Apr 17 |                    |
+|Apr 24 |                    |
+|May  1 |                    |
+|May  8 |                    |
+|May 15 |                    |
+|May 22 |                    |
+|May 29 |                    |
+|Jun  5 |                    |
+|Jun 12 (finals) |           |
+|-------|--------------------|-------------------------------------
