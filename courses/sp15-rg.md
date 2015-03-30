@@ -36,6 +36,16 @@ libraries' off-campus access, should provide access.
 |Jun 10 (finals) |              |
 |-------|-----------------------|-------------------------------------
 
+### Suggestions
+
+#### Konstantin Weitz
+
+- [Some Paper][google.com] (POPL'15)
+
+
+
+
+
 ### Last Quarter's Unpicked Paper Suggestions
 
 #### Eric M
