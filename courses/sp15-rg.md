@@ -40,7 +40,7 @@ libraries' off-campus access, should provide access.
 
 #### Konstantin Weitz
 
-- [Some Paper][google.com] (POPL'15)
+- [Some Paper](google.com) (POPL'15)
 
 
 
