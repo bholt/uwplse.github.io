@@ -96,7 +96,7 @@ A classic:
 
 - [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL 2015)
 - [Towards the Essence of Hygiene](http://michaeldadams.org/papers/hygiene/) (POPL 2015)
-   
+
 #### Edward
 
 - [Blanket Execution: Dynamic Similarity Testing for Program Binaries and
@@ -106,3 +106,6 @@ Components](https://www.usenix.org/conference/usenixsecurity14/technical-session
 #### Daniel Perelman
 - [Deep Specifications and Certified Abstraction Layers](http://flint.cs.yale.edu/flint/publications/dscal.pdf) (POPL '15)
 - [Program Boosting: Program Synthesis via Crowd-Sourcing](http://research.microsoft.com/apps/pubs/default.aspx?id=231564) (POPL '15)
+
+#### Calvin Loncaric
+- [A Theory of Changes for Higher-Order Languages](https://dl.acm.org/citation.cfm?id=2594304) (PLDI '14)
