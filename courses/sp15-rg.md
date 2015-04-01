@@ -64,6 +64,12 @@ A classic:
 
 - [Go To Statement Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html) (CACM’68)
 
+#### Calvin Loncaric
+- [A Theory of Changes for Higher-Order Languages](https://dl.acm.org/citation.cfm?id=2594304) (PLDI '14)
+
+#### James B
+- [Tracking the Flow of Ideas through the Programming Languages Literature](http://www.cs.princeton.edu/~mg19/papers/snapl2015.pdf) (SNAPL '15)
+
 ### Last Quarter's Unpicked Paper Suggestions
 
 #### Eric M
@@ -106,6 +112,3 @@ Components](https://www.usenix.org/conference/usenixsecurity14/technical-session
 #### Daniel Perelman
 - [Deep Specifications and Certified Abstraction Layers](http://flint.cs.yale.edu/flint/publications/dscal.pdf) (POPL '15)
 - [Program Boosting: Program Synthesis via Crowd-Sourcing](http://research.microsoft.com/apps/pubs/default.aspx?id=231564) (POPL '15)
-
-#### Calvin Loncaric
-- [A Theory of Changes for Higher-Order Languages](https://dl.acm.org/citation.cfm?id=2594304) (PLDI '14)
