@@ -66,15 +66,15 @@ A classic:
 
 - [Go To Statement Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html) (CACM’68)
 
+#### Eric M
+two papers from PLDI'15 first
+- [A Formal C Memory Model Supporting Integer-Pointer Casts](http://conf.researchr.org/event/pldi2015/pldi2015-papers-a-formal-c-memory-model-supporting-integer-pointer-casts) (PLDI'15)
+
 #### Calvin Loncaric
 - [A Theory of Changes for Higher-Order Languages](https://dl.acm.org/citation.cfm?id=2594304) (PLDI '14)
 
 #### James B
 - [Tracking the Flow of Ideas through the Programming Languages Literature](http://www.cs.princeton.edu/~mg19/papers/snapl2015.pdf) (SNAPL '15)
-
-#### Alex Polozov
-- Efficient Synthesis of Probabilistic Programs (PLDI'15)
-- [Compiler Validation via Equivalence Modulo Inputs](http://web.cs.ucdavis.edu/~su/publications/emi.pdf) (PLDI'14)
 
 ### Last Quarter's Unpicked Paper Suggestions
 
