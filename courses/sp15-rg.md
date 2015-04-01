@@ -82,6 +82,10 @@ A classic:
 - [The Push-Pull Model of Transactions](http://conf.researchr.org/event/pldi2015/pldi2015-papers-the-push-pull-model-of-transactions) (PLDI'15)
 - [Declarative Programming over Eventually Consistent Data Stores](http://conf.researchr.org/event/pldi2015/pldi2015-papers-declarative-programming-over-eventually-consistent-data-stores) (PLDI'15)
 
+#### Alex Polozov
+- Efficient Synthesis of Probabilistic Programs (PLDI'15)
+- [Compiler Validation via Equivalence Modulo Inputs](http://web.cs.ucdavis.edu/~su/publications/emi.pdf) (PLDI'14)
+
 ### Last Quarter's Unpicked Paper Suggestions
 
 #### Eric M
