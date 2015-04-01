@@ -42,6 +42,11 @@ libraries' off-campus access, should provide access.
 
 - [Research. Think about it](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+#### Doug
+- "The Need for Language Support for Fault-tolerant Distributed Systems" -- SNAPL 2015
+- "Verification of Producer-Consumer Synchronization in GPU Programs" -- PLDI 2015
+- "Efficient Synthesis of Probabilistic Programs" -- PLDI 2015
+
 #### Konstantin Weitz
 
 - [Staged Parser Combinators for Efficient Data Processing](http://infoscience.epfl.ch/record/203076/files/p637-jonnalagedda.pdf) (OOPSLA'14)
