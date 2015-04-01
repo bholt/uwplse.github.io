@@ -67,8 +67,10 @@ A classic:
 - [Go To Statement Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html) (CACM’68)
 
 #### Eric M
-two papers from PLDI'15 first
 - [A Formal C Memory Model Supporting Integer-Pointer Casts](http://conf.researchr.org/event/pldi2015/pldi2015-papers-a-formal-c-memory-model-supporting-integer-pointer-casts) (PLDI'15)
+- [Defining the Undefinedness of C](http://conf.researchr.org/event/pldi2015/pldi2015-papers-defining-the-undefinedness-of-c) (PLDI'15)
+- [Programming and Reasoning with Algebraic Effects and Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf) (ICFP'13)
+
 
 #### Calvin Loncaric
 - [A Theory of Changes for Higher-Order Languages](https://dl.acm.org/citation.cfm?id=2594304) (PLDI '14)
