@@ -78,6 +78,10 @@ A classic:
 #### James B
 - [Tracking the Flow of Ideas through the Programming Languages Literature](http://www.cs.princeton.edu/~mg19/papers/snapl2015.pdf) (SNAPL '15)
 
+#### Brandon H
+- [The Push-Pull Model of Transactions](http://conf.researchr.org/event/pldi2015/pldi2015-papers-the-push-pull-model-of-transactions) (PLDI'15)
+- [Declarative Programming over Eventually Consistent Data Stores](http://conf.researchr.org/event/pldi2015/pldi2015-papers-declarative-programming-over-eventually-consistent-data-stores) (PLDI'15)
+
 ### Last Quarter's Unpicked Paper Suggestions
 
 #### Eric M
