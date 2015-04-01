@@ -44,8 +44,9 @@ libraries' off-campus access, should provide access.
 
 #### Dan Grossman
 
-- Concurrency Debugging with Differential Schedule Projections (PLDI'15)
-- A Simpler, Safer Programming and Execution Model for Intermittent Systems (PLDI'15)
+- [Staged Parser Combinators for Efficient Data Processing](http://infoscience.epfl.ch/record/203076/files/p637-jonnalagedda.pdf) (OOPSLA'14)
+- Synthesis of ranking functions using extremal counterexamples (PLDI'15)
+- Interactive Parser Synthesis by Example (PLDI'15)
 
 #### Pavel Panchekha
 
