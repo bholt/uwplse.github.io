@@ -38,6 +38,10 @@ libraries' off-campus access, should provide access.
 
 ### Suggestions
 
+#### Zach Tatlock
+
+- [Research. Think about it](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 #### Konstantin Weitz
 
 - [Staged Parser Combinators for Efficient Data Processing](http://infoscience.epfl.ch/record/203076/files/p637-jonnalagedda.pdf) (OOPSLA'14)
