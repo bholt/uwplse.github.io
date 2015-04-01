@@ -47,7 +47,22 @@ libraries' off-campus access, should provide access.
 - Concurrency Debugging with Differential Schedule Projections (PLDI'15)
 - A Simpler, Safer Programming and Execution Model for Intermittent Systems (PLDI'15)
 
+#### Pavel Panchekha
 
+- [Programming up to Congruence](http://www.seas.upenn.edu/~sweirich/papers/congruence-extended.pdf) (POPL’15)
+- [Predicting Program Properties from “Big Code”](http://www.srl.inf.ethz.ch/papers/jsnice15.pdf) (POPL’15)
+- [Mtac: A Monad for Typed Tactic Programming in Coq](http://www.mpi-sws.org/~dreyer/papers/mtac/paper.pdf) (ICFP’13)
+
+These next two papers at PLDI’15 papers.
+I'm hoping they post them quickly, so we can read them.
+We might want to choose a backup paper.
+
+- Defining the undefinedness of C (PLDI’15)
+- Finding Counterexamples from Parsing Conflicts (PLDI’15)
+
+A classic:
+
+- [Go To Statement Considered Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html) (CACM’68)
 
 ### Last Quarter's Unpicked Paper Suggestions
 
