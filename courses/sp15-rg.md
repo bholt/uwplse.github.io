@@ -78,6 +78,10 @@ A classic:
 #### James B
 - [Tracking the Flow of Ideas through the Programming Languages Literature](http://www.cs.princeton.edu/~mg19/papers/snapl2015.pdf) (SNAPL '15)
 
+#### Alex Polozov
+- Efficient Synthesis of Probabilistic Programs (PLDI'15)
+- [Compiler Validation via Equivalence Modulo Inputs](http://web.cs.ucdavis.edu/~su/publications/emi.pdf) (PLDI'14)
+
 ### Last Quarter's Unpicked Paper Suggestions
 
 #### Eric M
