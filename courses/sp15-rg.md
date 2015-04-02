@@ -32,7 +32,7 @@ libraries' off-campus access, should provide access.
 |May 13 | James W               | Efficient Synthesis of Network Updates (PLDI'15)
 |May 20 | Calvin, Doug          | [A Theory of Changes for Higher-Order Languages](https://dl.acm.org/citation.cfm?id=2594304) (PLDI '14)
 |May 27 | Darioush, Bill        | On Subnormal Floating Point and Abnormal Timing (S&P'15)
-|Jun 3  | Kivanc                | TODO
+|Jun 3  | Kivanc                | [The Art of Testing Less without Sacrificing Quality](http://research.microsoft.com/pubs/238350/The%20Art%20of%20Testing%20Less%20without%20Sacrificing%20Quality.pdf) (ICSE '15)
 |Jun 10 | Nobody                | Finals Week
 |-------|-----------------------|-------------------------------------
 
