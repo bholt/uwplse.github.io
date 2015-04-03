@@ -18,7 +18,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |-------|--------------------|--------------------------------------
 |Date   | Presenter          | Topic
 |-------|--------------------|--------------------------------------
-|Apr  3 |                    |
+|Apr  3 | Mikael Mayer (EPFL) | FlashProg
 |Apr 10 |                    | 
 |Apr 17 | Albert Cheng (U of Houston) | Functional Reactive Programming for Real-Time Software
 |Apr 24 |                    |
