@@ -26,7 +26,7 @@ libraries' off-campus access, should provide access.
 |Apr  1 | Konstantin            | Paper Sign-up
 |Apr  8 | James B, Brandon      | [Tracking the Flow of Ideas through the Programming Languages Literature](http://www.cs.princeton.edu/~mg19/papers/snapl2015.pdf) (SNAPL '15)
 |Apr 15 | Alex P                | [Compiler Validation via Equivalence Modulo Inputs](http://web.cs.ucdavis.edu/~su/publications/emi.pdf) (PLDI'14)
-|Apr 22 | Konstantin            | Interactive Parser Synthesis by Example (PLDI'15)
+|Apr 22 | Konstantin, Daniel    | Interactive Parser Synthesis by Example (PLDI'15)
 |Apr 29 | Kivanc                | [The Art of Testing Less without Sacrificing Quality](http://research.microsoft.com/pubs/238350/The%20Art%20of%20Testing%20Less%20without%20Sacrificing%20Quality.pdf) (ICSE '15)
 |May  6 | Alex S, Stuart        | [Mtac: A Monad for Typed Tactic Programming in Coq](http://www.mpi-sws.org/~dreyer/papers/mtac/paper.pdf) (ICFP’13)
 |May 13 | James W               | Efficient Synthesis of Network Updates (PLDI'15)
