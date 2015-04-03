@@ -24,7 +24,7 @@ Contact James W (jrw12@cs) if you want to get on the mailing list.
 |Date   | Presenter             | Topic
 |-------|-----------------------|--------------------------------------
 |Apr  3 | James W               | Selecting readings
-|Apr 10 | James W               | Chapters 1-3 of Lynch. (Optional: Chapters 1-2 of Cachin) **Note: this week we'll meet in CSE 674 due to room a conflict**
+|Apr 10 | James W               | **Note: this week we'll meet in CSE 674 due to room a conflict** <br> Chapters 1-3 of Lynch. <br> Chapters 1-2 of Cachin <br> Gerard Le Lann, [Distributed Systems--Towards a Formal Approach](http://www.rocq.inria.fr/novaltis/publications/IFIP%20Congress%201977.pdf) <br> Ernest Chang and Rosemary Roberts, [An improved algorithm for decentralized extrema-finding in circular configurations of processes](http://dl.acm.org/citation.cfm?id=359108) <br> D.S. Hirschberg and J.B. Sinclair, [Decentralized extrema-finding in circular configurations of processors](http://dl.acm.org/citation.cfm?id=359029)
 |Apr 17 |                       | 
 |Apr 24 |                       | 
 |May  1 |                       | 
