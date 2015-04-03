@@ -24,7 +24,7 @@ Contact James W (jrw12@cs) if you want to get on the mailing list.
 |Date   | Presenter             | Topic
 |-------|-----------------------|--------------------------------------
 |Apr  3 | James W               | Selecting readings
-|Apr 10 |                       | **Note: this week we'll meet in CSE 674 due to room a conflict**
+|Apr 10 |                       | Chapters 1-3 of Lynch. (Optional: Chapters 1-2 of Cachin) **Note: this week we'll meet in CSE 674 due to room a conflict**
 |Apr 17 |                       | 
 |Apr 24 |                       | 
 |May  1 |                       | 
