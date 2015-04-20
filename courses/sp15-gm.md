@@ -23,7 +23,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Apr 24 |                    |
 |May  1 |                    |
 |May  8 |                    |
-|May 15 | Brett Boston       | Probability Type Inference for Flexible Approximate Programming (Undergraduate Thesis Presentation)
+|May 15 | Brett Boston | Probability Type Inference for Flexible Approximate Programming (Undergraduate Thesis Presentation)
 |May 22 |                    |
 |May 29 |                    |
 |Jun  5 |                    |
