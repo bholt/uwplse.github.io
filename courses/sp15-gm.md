@@ -22,7 +22,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |Apr 17 | Albert Cheng (U of Houston) | Functional Reactive Programming for Real-Time Software
 |Apr 24 |                    |
 |May  1 | Emina, Zach, and Adrian  | SNAPL practice talks
-|May  8 |                    |
+|May  8 | Calvin Loncaric    | Data Structure Synthesis
 |May 15 | Brett Boston       | Probability Type Inference for Flexible Approximate Programming (Undergraduate Thesis Presentation)
 |May 22 |                    |
 |May 29 |                    |
