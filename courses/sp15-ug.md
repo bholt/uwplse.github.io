@@ -7,12 +7,14 @@ permalink: sp15-underground-distributed-algorithms/
 
 ## Underground Reading Group in Distributed Algorithms (Spring 2015) (Fri 11 in CSE 203)
 
-We meet once a week to discuss readings from the following two books:
+We meet once a week to discuss readings from the following books:
 
 * Nancy Lynch. *Distributed Algorithms*.
 
 * Chirstian Cachin, Rachid Guerraoui, and Luís Rodrigues. *Introduction to
-  Reliable and Secure Distributed Programming*
+  Reliable and Secure Distributed Programming*.
+
+* Maurice Herlihy and Nir Shavit. *The Art of Multiprocessor Programming*.
 
 See below for the reading schedule.
 
