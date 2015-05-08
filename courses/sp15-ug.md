@@ -30,8 +30,8 @@ Contact James W (jrw12@cs) if you want to get on the mailing list.
 |Apr 17 | Doug                  | Lynch: 4.1-4.2, all of ch 5, 6.1-6.2 <br> **Optional:** Lynch: 4.3-4.7, 6.3-6.9
 |Apr 24 | Naveen                | Lynch: 6.3-6.9, 7.3, all of 8
 |May  1 | James W               | Lynch: 9 and 10
-|May  8 | Adrianna              | Lynch: 12 and 13 <br> **Optional:** Herlihy and Shavit: Chapters 3-6. Also Chapter 2 corresponds to a lot of what we did last week and is highly recommended. 
-|May 15 | Amrita                | Lynch: finish chapter 13 (Adrianna will present 10 minutes on this); skim 14; read as much as you want of 15; then read 16 (we'll try to focus on 16!!!)
+|May  8 | Adriana              | Lynch: 12 and 13 <br> **Optional:** Herlihy and Shavit: Chapters 3-6. Also Chapter 2 corresponds to a lot of what we did last week and is highly recommended. 
+|May 15 | Amrita                | Lynch: finish chapter 13 (Adriana will present 10 minutes on this); skim 14; read as much as you want of 15; then read 16 (we'll try to focus on 16!!!)
 |May 22 |                       | 
 |May 29 |                       | 
 |Jun  5 |                       | 
