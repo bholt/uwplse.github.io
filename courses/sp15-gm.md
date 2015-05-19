@@ -24,7 +24,7 @@ Konstantin Weitz is in charge of making sure there is something planned every we
 |May  1 | Emina, Zach, and Adrian  | SNAPL practice talks
 |May  8 | Calvin Loncaric    | Data Structure Synthesis
 |May 15 | Brett Boston       | Probability Type Inference for Flexible Approximate Programming (Undergraduate Thesis Presentation)
-|May 22 |                    |
+|May 22 | Dan, Zach, Emina, Alvin, Adrian, and James B | SNAPL post-mortem and selfie sharing session
 |May 29 | Alex Polozov       | FlashMeta: A Framework for Inductive Program Synthesis
 |Jun  5 |                    |
 |Jun 12 (finals) |           |
