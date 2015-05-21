@@ -31,7 +31,7 @@ libraries' off-campus access, should provide access.
 |May  6 | Alex S, Stuart        | [Mtac: A Monad for Typed Tactic Programming in Coq](http://www.mpi-sws.org/~dreyer/papers/mtac/paper.pdf) (ICFP’13)
 |May 13 | Pavel, Eric           | [Programming and Reasoning with Algebraic Effects and Dependent Types](http://eb.host.cs.st-andrews.ac.uk/drafts/effects.pdf) (ICFP'13)
 |May 20 | James W               | [Efficient Synthesis of Network Updates](http://www.cs.cornell.edu/~jnfoster/papers/frenetic-update-synthesis-pldi15.pdf) (PLDI'15)
-|May 27 | Darioush, Bill        | On Subnormal Floating Point and Abnormal Timing (S&P'15)
+|May 27 | Darioush, Bill        | [On Subnormal Floating Point and Abnormal Timing](https://cseweb.ucsd.edu/~dkohlbre/papers/subnormal.pdf) (S&P'15)
 |Jun 3  | Calvin, Doug          | [A Theory of Changes for Higher-Order Languages](https://dl.acm.org/citation.cfm?id=2594304) (PLDI '14)
 |Jun 10 | Nobody                | Finals Week
 |-------|-----------------------|-------------------------------------
