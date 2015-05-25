@@ -33,7 +33,7 @@ Contact James W (jrw12@cs) if you want to get on the mailing list.
 |May  8 | Adriana               | Lynch: 12 and 13 <br> **Optional:** Herlihy and Shavit: Chapters 3-6. Also Chapter 2 corresponds to a lot of what we did last week and is highly recommended. 
 |May 15 | Amrita                | Lynch: finish chapter 13 (Adriana will present 10 minutes on this); skim 14; read as much as you want of 15; then read 16 (we'll try to focus on 16!!!)
 |May 22 | Doug                  | Lynch: 17-19
-|May 29 |                       | Lynch: 20-22 (skip 20 if you want)
+|May 29 | Adriana               | Lynch: 20-22 (skip 20 if you want)
 |Jun  5 |                       | Lynch: 23-25
 |Jun 12 |                       | Finals Week
 |-------|-----------------------|-------------------------------------
