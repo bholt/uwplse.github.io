@@ -34,6 +34,6 @@ Contact James W (jrw12@cs) if you want to get on the mailing list.
 |May 15 | Amrita                | Lynch: finish chapter 13 (Adriana will present 10 minutes on this); skim 14; read as much as you want of 15; then read 16 (we'll try to focus on 16!!!)
 |May 22 | Doug                  | Lynch: 17-19
 |May 29 | Adriana               | Lynch: 20-22 (skip 20 if you want)
-|Jun  5 |                       | Lynch: 23-25
+|Jun  5 | James W               | Lynch: 23-25<br> **Optional:** [The Weakest Failure Detector for Solving Consensus](http://dl.acm.org/citation.cfm?id=135451)<br>[Unreliable Failure Detectors for Reliable Distributed Systems](http://dl.acm.org/citation.cfm?id=226643.226647)
 |Jun 12 |                       | Finals Week
 |-------|-----------------------|-------------------------------------
