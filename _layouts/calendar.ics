@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:{{ page.title }}
+X-WR-TIMEZONE:America/Los_Angeles
+X-PUBLISHED-TTL:PT2H
+PRODID:http://sampa.cs.washington.edu/schedule/{{page.path}}
+METHOD:PUBLISH{% assign mydir = page.path | split:"/" | first %}{% for p in site.pages %}{% assign dir = p.path | split:"/" | first %}{% if p.schedule and dir == mydir %}{% for e in p.schedule %}{% if e.what != '—' and e.what != '-' and e.who != '—' %}
+BEGIN:VEVENT
+UID:{{ e.date | date: "%Y%m%d" }}-{{ p.starttime | date:"%H%M%S" }}-{{ dir }}@sampa.cs.washington.edu
+LOCATION:{% if e.room %}{{ e.room }}{% else %}{{ p.room }}{% endif %}
+SUMMARY:{{ p.shortname }}: {% if p.who_in_summary %}{{ e.who }}: {% endif %}{% assign title_lines = e.what | markdownify | strip_html | newline_to_br | split:'<br />' %}{% capture summary_text %}{% for line in title_lines %}{% assign stripped = line | strip_newlines | replace:' ','' %}{% if stripped != "" %}; {{ line | strip_newlines | replace:'&#39;',"'" | replace:'&amp;',"&" }}{% endif %}{% endfor %}{% endcapture %}{{ summary_text | remove_first:'; '}}
+DESCRIPTION:{% if e.who %}Who: {{ e.who }}{% endif %}{% if e.link and e.who %}\n\n{% endif %}{% if e.link %}{{ e.link }}{% endif %}\n{% if e.food %}\nFood: {{ e.food }}{% endif %}
+CLASS:PUBLIC
+DTSTART;TZID=America/Los_Angeles:{{ e.date | date: "%Y%m%d" }}T{% if e.starttime %}{{ e.starttime | date: "%H%M%S" }}{% else %}{{ p.starttime | date: "%H%M%S" }}{% endif %}
+DTEND;TZID=America/Los_Angeles:{{ e.date | date: "%Y%m%d" }}T{% if e.endtime %}{{ e.endtime | date: "%H%M%S" }}{% else %}{{ p.endtime | date: "%H%M%S" }}{% endif %}
+LAST-MODIFIED:{{ site.time | date: "%Y%m%d" }}T{{ site.time | date: "%H%M%S" }}
+SEQUENCE:1
+END:VEVENT{% endif %}{% endfor %}{% endif %}{% endfor %}
+END:VCALENDAR

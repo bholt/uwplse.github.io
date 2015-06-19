@@ -1,0 +1,106 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Inconsolata" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-48525616-1', 'washington.edu');
+      ga('send', 'pageview');
+    </script>
+      <style>
+        body {
+          padding-bottom: 20px;
+        }
+
+        /* The gray page footer. */
+        .footer {
+          padding-top: 19px;
+          color: #777;
+          text-align: center;
+          font-size: 0.8em;
+          margin: 0.1em 0;
+        }
+        .footer a:link, .footer a:visited {
+          color: #777;
+        }
+
+        code {
+          color: black;
+        }
+
+        .logo {
+          text-align: right;
+          margin-bottom: -10px;
+        }
+        .logo a:hover {
+          text-decoration: none;
+        }
+      </style>
+        <div class="container">
+
+            <div class="row">
+              <div class="col-sm-8">
+                <h1>{{ page.title }} <small>{{ page.subtitle }}</small></h1>
+              </div>
+              <div class="col-sm-4 hidden-xs logo">
+                <h1><a href="http://sampa.cs.washington.edu">
+                </a>
+                  <a href="http://cs.washington.edu">
+                </a></h1>
+              </div>
+            </div>
+
+{% assign dir = page.path | split:"/" | first %}
+
+<h3>{{ page.quarter }} — {{ page.day }}, {{ page.starttime }} — {{ page.room }}</h3>
+
+Subscribe to the calendar: <a href="webcal:{{ site.base_url }}/{{ dir }}/schedule.ics">iCal</a> or <a href="http://www.google.com/calendar/render?cid=http:{{ site.base_url }}/{{ dir }}/schedule.ics">Google Calendar</a>.
+
+<table class="table">
+  <thead><tr>
+    <th style="width: 5em;">Date</th>
+    <th>Who</th>
+    <th>What</th>
+  </tr></thead>
+  {% for e in page.schedule %}
+  <tr>
+    <td>{{ e.date | date: "%b %-d"}}</td>
+    <td>{% if e.who %}{{ e.who | markdownify }}{% else %}—{% endif %}{% if e.starttime or e.endtime %}<b>{% if e.starttime %}{{ e.starttime }}{% else %}{{ page.starttime }}{% endif %} — {% if e.endtime %}{{ e.endtime }}{% else %}{{ page.endtime }}{% endif %}{% if e.room %}<br />{% endif %}</b>{% endif %}{% if e.room %}<b>Room: {{ e.room }}</b>{% endif %}</td>
+    <td>
+      {% if e.link %}<a href="{{ e.link }}">{% endif %}{{ e.what | markdownify }}{% if e.link %}</a>{% endif %}
+      {% if e.extra %}{{ e.extra | markdownify }}{% endif %}
+      {% if e.food %}<span class="text-muted"><small>Food: {{ e.food | mardownify }}</small></span>{% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+
+{{ content }}
+
+          <div class="footer">
+            <a href="http://github.com/uwsampa/sampa-private/edit/master/{{page.path}}">Edit on GitHub</a> —
+            <a href="http://www.cs.washington.edu/">Computer Science &amp;
+              Engineering</a>
+            at the
+            <a href="http://www.washington.edu/">University of
+              Washington</a>
+          </div>
+        </div>
+
+    </body>
+</html>
+
