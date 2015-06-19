@@ -17,6 +17,7 @@ We meet once a week to discuss papers in type theory. Here are some ideas.
 * [Constructive mathematics and computer programming](http://www.cs.tufts.edu/~nr/cs257/archive/per-martin-lof/constructive-math.pdf)
 * [Implementing mathematics with the NuPRL proof development system](www.cs.cornell.edu/home/kreitz/teaching/cs671/nuprl-book-85.ps)
 
+* [Eliminating Dependent Pattern Matching](http://cs.ru.nl/~james/RESEARCH/goguen2006.pdf)
 
 * Chapters from TAPL or ATTAPL?
 * [Programming with Intersection Types
