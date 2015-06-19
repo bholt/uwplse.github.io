@@ -9,6 +9,12 @@ title: PLSE Archive
 
 Links to past quarters’ reading groups live here.
 
+# Spring 2015
+
+* [PLSE Reading Group](sp15-rg/)
+
+* [PLSE Group Meeting](sp15-gm/)
+
 ## Winter 2015
 
 * [PL/SE Reading Group](wi15-rg/)
@@ -30,3 +36,4 @@ Links to past quarters’ reading groups live here.
 * [Group Meeting](sp14-gmeet/)
 
 * [Reading Group in Categorical Models for Type Theories](sp14-types/)
+

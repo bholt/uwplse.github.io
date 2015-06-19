@@ -5,20 +5,14 @@ layout: main
 title: PLSE
 ---
 
-[PLSE_RG]: sp15-rg/
-[PLSE_GM]: sp15-gm/
-[PLSE_UG]: sp15-underground-distributed-algorithms/
-[PLSE_UG_NEXT]: su15-underground-distributed-papers/
+[PLSE_UG_DS]: su15-underground-distributed-papers/
+[PLSE_UG_TT]: su15-underground-type-theory/
 
 University of Washington Programming Languages and Software Engineering
 
-* [PLSE Reading Group][PLSE_RG] (Wed 3:30 in CSE 203)
+* [Underground reading group on classic papers in distributed systems][PLSE_UG_DS]
 
-* [PLSE Group Meeting][PLSE_GM] (Fri 3:30 in CSE 203)
-
-* [Underground reading group on distributed algorithms][PLSE_UG] (Fri 11 in CSE 203)
-
-* **Coming this summer!** [Underground reading group on classic papers in distributed systems][PLSE_UG_NEXT]
+* [Underground reading group on type theory][PLSE_UG_TT]
 
 Previous quarters’ reading groups [are archived](archive.html).
 
