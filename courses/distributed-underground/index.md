@@ -6,7 +6,7 @@ quarter: Summer 2015
 day: Tuesday
 starttime: 11:00am
 endtime: 12:00pm
-room: ???
+room: CSE 203
 who_in_summary: true
 layout: schedule
 date: 2015-06-23
