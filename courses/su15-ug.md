@@ -1,7 +1,7 @@
 ---
 content_type: md
 layout: main
-title: Underground Reading Group in Distributed Algorithms
+title: Underground Reading Group: Classic Papers in Distributed Systems
 permalink: su15-underground-distributed-papers/
 ---
 
