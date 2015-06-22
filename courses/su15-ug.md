@@ -39,8 +39,8 @@ Here are some ideas.
 |Aug 25 |                       |
 |Sep  1 |                       |
 |Sep  8 |                       |
-|Sep  15|                       |
+|Sep 15 |                       |
 |-------|-----------------------|-------------------------------------
 
 
-Contact James W (jrw12@cs) if you want to get on the mailing list.
+Contact James W (jrw12@cs) if you want to get on the mailing list. Or [subscribe yourself](https://mailman.cs.washington.edu/mailman/listinfo/distributed-underground).
