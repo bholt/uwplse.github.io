@@ -23,4 +23,7 @@ We meet once a week to discuss papers in type theory. Here are some ideas.
 * [Programming with Intersection Types
 and Bounded Polymorphism](http://www.cis.upenn.edu/~bcpierce/papers/thesis.pdf)
 
+* [The undecidability of unification in third-order logic](http://ac.els-cdn.com/S001999587390301X/1-s2.0-S001999587390301X-main.pdf?_tid=f7010512-1913-11e5-9c79-00000aab0f26&acdnat=1435001104_818c2d09bebaca335b097efc5d82b8eb)
+* [Higher-order unification 30 years later](http://www.researchgate.net/publication/221302333_Higher_Order_Unification_30_Years_Later)
+
 Contact James W (jrw12@cs) if you want to get on the mailing list.
