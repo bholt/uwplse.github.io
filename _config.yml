@@ -1,6 +1,6 @@
 markdown: kramdown
 highlighter: pygments
 
-baseurl: /
+baseurl: 
 
 repository_url: https://github.com/uwplse/
