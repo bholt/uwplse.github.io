@@ -43,4 +43,4 @@ Here are some ideas.
 |-------|-----------------------|-------------------------------------
 
 
-Contact James W (jrw12@cs) if you want to get on the mailing list.
+Contact James W (jrw12@cs) if you want to get on the mailing list. Or [subscribe yourself](https://mailman.cs.washington.edu/mailman/listinfo/distributed-underground).

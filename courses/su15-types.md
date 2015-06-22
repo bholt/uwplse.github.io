@@ -47,4 +47,5 @@ and Bounded Polymorphism](http://www.cis.upenn.edu/~bcpierce/papers/thesis.pdf)
 |Sep 17 |                       |
 |-------|-----------------------|-------------------------------------
 
-Contact James W (jrw12@cs) if you want to get on the mailing list.
+Contact James W (jrw12@cs) if you want to get on the mailing list. Or [subscribe yourself](https://mailman.cs.washington.edu/mailman/listinfo/hott).
+
