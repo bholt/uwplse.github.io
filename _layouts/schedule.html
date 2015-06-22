@@ -64,11 +64,11 @@
               </div>
             </div>
 
-{% assign dir = page.path | split:"/" | first %}
+{% assign dir = page.path | replace: '/index.md','' %}
 
 <h3>{{ page.quarter }} — {{ page.day }}, {{ page.starttime }} — {{ page.room }}</h3>
 
-Subscribe to the calendar: <a href="webcal://bholt.github.io/{{ site.base_url }}/{{ dir }}/schedule.ics">iCal</a> or <a href="http://www.google.com/calendar/render?cid=http://bholt.github.io/{{ site.base_url }}/{{ dir }}/schedule.ics">Google Calendar</a>.
+Subscribe to the calendar: <a href="webcal://bholt.github.io{{ site.base_url }}/{{ dir }}/schedule.ics">iCal</a> or <a href="http://www.google.com/calendar/render?cid=http://bholt.github.io{{ site.base_url }}/{{ dir }}/schedule.ics">Google Calendar</a>.
 
 <table class="table">
   <thead><tr>
