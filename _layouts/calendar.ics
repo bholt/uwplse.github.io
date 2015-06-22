@@ -3,7 +3,7 @@ VERSION:2.0
 X-WR-CALNAME:{{ page.title }}
 X-WR-TIMEZONE:America/Los_Angeles
 X-PUBLISHED-TTL:PT2H
-PRODID:http://sampa.cs.washington.edu/schedule/{{page.path}}
+PRODID:http://bholt.github.io/{{page.path}}
 METHOD:PUBLISH{% assign mydir = page.path | split:"/" | first %}{% for p in site.pages %}{% assign dir = p.path | split:"/" | first %}{% if p.schedule and dir == mydir %}{% for e in p.schedule %}{% if e.what != '—' and e.what != '-' and e.who != '—' %}
 BEGIN:VEVENT
 UID:{{ e.date | date: "%Y%m%d" }}-{{ p.starttime | date:"%H%M%S" }}-{{ dir }}@sampa.cs.washington.edu
