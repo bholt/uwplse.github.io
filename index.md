@@ -5,7 +5,7 @@ layout: main
 title: PLSE
 ---
 
-[PLSE_UG_DS]: su15-underground-distributed-papers/
+[PLSE_UG_DS]: courses/su15/underground-distributed/
 [PLSE_UG_TT]: su15-underground-type-theory/
 [PLSE_UG_SL]: su15-underground-separation-logic/
 
